@@ -6,4 +6,5 @@ This project uses Iris dataset for classification and uses FastAPI as endpoint
 - iris.py contains IRIS class and its properties
 - main.py contains the code for FAST API app
 - modelimplementation.ipynb is the python notebook which has all the code for basic EDA and building out models
-To run this project, enter the command in Anaconda command line window: uvicorn main:app --reload 
+To run this project, enter the command in Anaconda command prompt window: 
+ uvicorn main:app --reload 
